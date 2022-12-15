@@ -4,6 +4,10 @@
 To maintain privacy, identifiers (First name, surname, email, roll number) have been removed from the original xlsx. Before removing roll number, it was used to find branch and whether a student is dual degree or not. For code related to cleaning and privacy, please see `privacy.py`. The original xlsx file is not included in this repo for privacy. Since the original xlsx was public to anyone who took the course and I have removed personal identifiers, I believe I can use the data for analysis.  
 
 ***
+## View online
+[nbViewer](https://nbviewer.org/github/sudokara/EDA-RA-Grades/blob/main/analysis.ipynb)  
+[Binder](https://mybinder.org/v2/gh/sudokara/EDA-RA-Grades/db7e232db267f0af24bda1589910ba63de01fd8e)  
+
 
 ## Running Locally
 1. Download or clone the repo

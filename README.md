@@ -5,8 +5,8 @@ To maintain privacy, identifiers (First name, surname, email, roll number) have 
 
 ***
 ## View online
-[nbViewer](https://nbviewer.org/github/sudokara/EDA-RA-Grades/blob/main/analysis.ipynb)  
-[Binder](https://mybinder.org/v2/gh/sudokara/EDA-RA-Grades/db7e232db267f0af24bda1589910ba63de01fd8e)  
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/sudokara/EDA-RA-Grades/blob/main/analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sudokara/EDA-RA-Grades/main?filepath=analysis.ipynb)  
 
 
 ## Running Locally
